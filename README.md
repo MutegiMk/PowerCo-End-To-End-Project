@@ -15,7 +15,7 @@
   [Usage](#Usage)
   
   ## Introduction
-  > In today's competitive market, understanding customer churn and its underlying factors is crucial for businesses. This project focuses on analyzing the relationship between price sensitivity and customer churn in a specific industry. By examining the historical data and performing exploratory analysis, we aim to uncover insights that can help businesses improve customer retention strategies
+  > In today's competitive market, understanding customer churn and its underlying factors is crucial for businesses. This project focuses on analyzing the relationship between price sensitivity and customer churn in a specific industry. By examining the historical data and performing exploratory analysis, I aim to uncover insights that can help businesses improve customer retention strategies
   
  ## Project Overview
   - Data collection: Gathering relevant data related to customer behavior, pricing, and churn.
